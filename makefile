@@ -22,5 +22,5 @@ clean:
 	rm -f main
 
 test: all
-	chmod u+x quiz1-tests.sh
-	./quiz1-tests.sh
+	chmod u+x tests.sh
+	./tests.sh
